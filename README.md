@@ -9,7 +9,7 @@ Autore: **Alessio Torroni** — matricola 0365661.
 
 Lo studio modella, tramite **simulazione a eventi discreti**, una farmacia dotata di sistema
 robotizzato di dispensazione **Gollmann**. Il sistema è rappresentato come una **rete di code**
-con arrivi non stazionari (NSPP) integrata con un **sottosistema di inventario a revisione
+con arrivi non stazionari integrata con un **sottosistema di inventario a revisione
 periodica** con politica `(s, S)` su cinque classi di farmaco.
 
 L'obiettivo è la **riduzione dei costi di esercizio a parità di qualità del servizio**, agendo su
