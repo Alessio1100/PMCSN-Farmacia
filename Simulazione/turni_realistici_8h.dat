@@ -1,0 +1,23 @@
+# Turni REALISTICI 4-6h / max 8h-con-pausa (scenario turnazione realistica, attivita' 07)
+# I cassieri/magazzinieri che facevano 11-15 e 16-20 sono UNA persona (turno spezzato, pausa 15-16).
+# Le pause dei turni da 8h sono su ore di slack (fuori dal picco 11-12).
+# Ogni riga META = un SEGMENTO DI LAVORO contiguo (le pause spezzano il turno in due segmenti),
+# cosi' staffingFromTurniDat conta la copertura per fascia in modo esatto.
+#
+# META nome  inizio  fine  colore   ruolo
+# --- CASSIERI ---
+META C1a  8   13  #378ADD  cassiere    # C1 08-16, pausa 13-14  -> segmenti 08-13, 14-16
+META C1b  14  16  #378ADD  cassiere
+META C2a  8   14  #378ADD  cassiere    # C2 08-16, pausa 14-15  -> segmenti 08-14, 15-16
+META C2b  15  16  #378ADD  cassiere
+META C3   9   16  #1D9E75  cassiere    # C3 09-17, pausa 16-17  -> segmento 09-16
+META C4a  11  15  #7F77DD  cassiere    # C4 11-15 + 16-20, pausa 15-16 (turno spezzato)
+META C4b  16  20  #7F77DD  cassiere
+META C5   16  20  #EF9F27  cassiere
+META C6   16  20  #EF9F27  cassiere
+META C7   16  20  #EF9F27  cassiere
+# --- MAGAZZINIERI ---
+META M1   8   14  #378ADD  magazziniere    # M1 08-14
+META M2   14  20  #639922  magazziniere    # M2 14-20
+META M3a  11  15  #7F77DD  magazziniere    # M3 11-15 + 16-20, pausa 15-16 (turno spezzato)
+META M3b  16  20  #EF9F27  magazziniere

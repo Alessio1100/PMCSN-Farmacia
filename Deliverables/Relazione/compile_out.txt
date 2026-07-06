@@ -1,0 +1,438 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.l
+df
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Italian' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 21.
+
+))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel
+-italian.tex)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+ (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty)
+ (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg))
+
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/textgreek\textgreek.sty
+
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.de
+f
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.d
+fu)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fon
+tenc.def)))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
+ty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+ (C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def) (main.aux)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd)
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting
+italian.ldf    on input line 58.
+
+
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\aless\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/aless/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map} <./imag
+es/logo.png>]
+
+LaTeX Warning: File `images/immagine1.png' not found on input line 207.
+
+
+! Package pdftex.def Error: File `images/immagine1.png' not found: using draft 
+setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 ...[width=1\linewidth]{images/immagine1.png}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3]
+Underfull \hbox (badness 5260) in paragraph at lines 362--362
+|\OT1/cmr/bx/n/10 Instradamento prob-a-bilis-ti-co e fines-tra
+[4] [5]
+
+LaTeX Warning: File `images/immagine.jpg' not found on input line 533.
+
+
+! Package pdftex.def Error: File `images/immagine.jpg' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.533 ...[width=1.\linewidth]{images/immagine.jpg}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 590--592
+[]\OT1/cmr/bx/n/10 COMPLETION\OT1/cmr/m/n/10 : chiusura del-l'or-dine
+[7] [8]
+
+LaTeX Warning: File `images/immagine_casse.png' not found on input line 677.
+
+
+! Package pdftex.def Error: File `images/immagine_casse.png' not found: using d
+raft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.677 ...th=\linewidth]{images/immagine_casse.png}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+[]\OT1/cmr/m/n/10 Arrivi Marko-viani di or-di-ni on-line:
+
+LaTeX Warning: File `images/immagine_casse_online.png' not found on input line 
+734.
+
+
+! Package pdftex.def Error: File `images/immagine_casse_online.png' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.734 ...ewidth]{images/immagine_casse_online.png}
+                                                  
+
+LaTeX Warning: File `images/immagine_dispatcher.png' not found on input line 77
+4.
+
+
+! Package pdftex.def Error: File `images/immagine_dispatcher.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.774 ...inewidth]{images/immagine_dispatcher.png}
+                                                  
+[10]
+Overfull \hbox (1.49576pt too wide) detected at line 791
+\OML/cmm/m/it/10 K \OT1/cmr/m/n/10 = [][]1\OML/cmm/m/it/10 ;  []\OT1/cmr/m/n/10
+ ([](2[]71))[]\OML/cmm/m/it/10 ;  \U/msb/m/n/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it
+/10 K\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 2[]86\OML/cmm/m/it/
+10 ;
+
+Overfull \hbox (26.39711pt too wide) detected at line 802
+\OML/cmm/m/it/10 p[] \OT1/cmr/m/n/10 = 0[]20 ([])\OML/cmm/m/it/10 ;  p[] \OT1/c
+mr/m/n/10 = 0[]80 ([])\OML/cmm/m/it/10 :
+[11]
+Overfull \hbox (1.41243pt too wide) in paragraph at lines 834--836
+\OT1/cmr/m/n/10 nor-male tron-ca-ta $[](10\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 5
+;  [5\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 20])$
+
+LaTeX Warning: File `images/immagine_braccio_uno.png' not found on input line 8
+46.
+
+
+! Package pdftex.def Error: File `images/immagine_braccio_uno.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.846 ...newidth]{images/immagine_braccio_uno.png}
+                                                  
+
+Overfull \vbox (16.12126pt too high) has occurred while \output is active
+[12] [13]
+Underfull \hbox (badness 6204) in paragraph at lines 908--910
+[]\OT1/cmr/m/n/10 Servizio: som-ma di $\OML/cmm/m/it/10 K$ \OT1/cmr/m/n/10 es-t
+razioni da
+
+LaTeX Warning: File `images/immagine_braccio_due.png' not found on input line 9
+17.
+
+
+! Package pdftex.def Error: File `images/immagine_braccio_due.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.917 ...newidth]{images/immagine_braccio_due.png}
+                                                  
+[14]
+
+LaTeX Warning: File `images/immagine_magazzinieri.png' not found on input line 
+987.
+
+
+! Package pdftex.def Error: File `images/immagine_magazzinieri.png' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.987 ...ewidth]{images/immagine_magazzinieri.png}
+                                                  
+
+Overfull \hbox (21.13489pt too wide) detected at line 1015
+[]  [][]\OMS/cmsy/m/n/10 !  []  [][]!  []
+[15] [16]
+Underfull \hbox (badness 5832) in paragraph at lines 1039--1041
+[]\OT1/cmr/m/n/10 Domanda per classe pro-porzionale al-la
+
+Underfull \hbox (badness 5345) in paragraph at lines 1039--1041
+\OT1/cmr/m/n/10 ca-pac-it^^Ra: $\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 ([]\OML/cmm/m
+/it/10 c\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 S[]= [] S \OT1/cmr/m/n/10 =
+
+Overfull \hbox (3.81557pt too wide) detected at line 1087
+\OT1/cmr/bx/n/10 P \OT1/cmr/m/n/10 = [] []
+[17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1210
+\OML/cmm/m/it/10 n$ \OT1/cmr/bx/n/10 repliche in-dipen-den-ti \OT1/cmr/m/n/10 d
+el-la gior-na-ta:
+
+Underfull \hbox (badness 6316) in paragraph at lines 1231--1232
+[]\OT1/cmr/bx/n/10 casse $\OML/cmm/m/it/10 M=M=m$ \OT1/cmr/bx/n/10 etero-ge-nee
+ \OT1/cmr/m/n/10 (i cinque
+
+Underfull \hbox (badness 6032) in paragraph at lines 1233--1236
+\OT1/cmr/m/n/10 (con-fron-to con i mod-el-li analiti-ci $\OML/cmm/m/it/10 M=M=\
+OT1/cmr/m/n/10 1$,
+[19]
+Underfull \hbox (badness 7685) in paragraph at lines 1246--1248
+\OT1/cmr/m/n/10 Con l'in-strada-men-to prob-a-bilis-ti-co fis-so, le
+
+LaTeX Warning: File `images/immagine_flusso_forzato.png' not found on input lin
+e 1283.
+
+
+! Package pdftex.def Error: File `images/immagine_flusso_forzato.png' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1283 ...dth]{images/immagine_flusso_forzato.png}
+                                                  
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1393
+[][] \OML/cmm/m/it/10 X[]$ \OT1/cmr/m/n/10 si ot-ten-gono ana-liti-ca-mente dai
+
+[22]
+Underfull \hbox (badness 5147) in paragraph at lines 1462--1462
+|\OT1/cmr/bx/n/10 Test de-gen-er-a-to del-l'in-ven-tario (con-tro
+[23]
+Overfull \hbox (132.01962pt too wide) in paragraph at lines 1522--1531
+ [] 
+[24] [25]
+Underfull \hbox (badness 1377) in paragraph at lines 1678--1678
+[]|$\OML/cmm/m/it/10 s \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 75\O
+ML/cmm/m/it/10 ; \OT1/cmr/m/n/10 65\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 55\OML/cm
+m/m/it/10 ; \OT1/cmr/m/n/10 40\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 30\OMS/cmsy/m/
+n/10 g$\OT1/cmr/m/n/10 ,
+
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1678
+[]|\OT1/cmr/m/n/10 quante
+
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1678
+\OT1/cmr/m/n/10 casse/magazzinieri per
+
+Underfull \hbox (badness 2662) in paragraph at lines 1678--1678
+[]|\OT1/cmr/m/n/10 quanto si risparmia, a
+[26] [27] [28] [29 <./images/profilo_arrivi.png>] [30]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <./images/transient_responseTime_10k.png>] [33 <./images/transient_response
+Time_40k.png> <./images/chatfield_r1_vs_b.png>] [34 <./images/acf_batchmeans.pn
+g>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] [36 <./images/baseline_system_response.png> <./images/baseline_casse_util.
+png>]
+Overfull \hbox (22.63084pt too wide) detected at line 1902
+\OML/cmm/m/it/10 s \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 75\OML/c
+mm/m/it/10 ;  \OT1/cmr/m/n/10 65\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 55\OML/cmm/
+m/it/10 ;  \OT1/cmr/m/n/10 40\OML/cmm/m/it/10 ;  \OT1/cmr/m/n/10 30\OMS/cmsy/m/
+n/10 g\OML/cmm/m/it/10 ;  R \OT1/cmr/m/n/10 = 30[]\OML/cmm/m/it/10 ;  f \OT1/cm
+r/m/n/10 = 1[]0\OML/cmm/m/it/10 ;
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]
+Overfull \vbox (16.23578pt too high) has occurred while \output is active
+[38 <./images/pareto_inventario.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39] [40 <./images/configsearch_breakdown.png> <./images/configsearch_pareto.pn
+g>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[41] [42 <./images/turni_da_configsearch.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2097
+[]\OT1/cmr/m/n/10 Lo sce-nario \OT1/cmr/bx/sc/10 Ot-timiz-za-to \OT1/cmr/m/n/10
+ ri-com-pone le
+
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2097
+\OT1/cmr/m/n/10 de-ci-sioni del-la fase: staffing a pro-
+
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2097
+\OT1/cmr/m/n/10 fi-lo $[2\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;
+ \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/
+10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 3\OM
+L/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m
+/it/10 ; \OT1/cmr/m/n/10 4]$ casse e
+[43 <./images/inventory_livelli_06.png>] [44]
+Overfull \vbox (14.26312pt too high) has occurred while \output is active
+Overfull \vbox (8.72144pt too high) has occurred while \output is active
+[45]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46 <./images/confronto_costi.png> <./images/confronto_system_response.png>]
+[47 <./images/confronto_casse_util.png> <./images/confronto_b2_util.png>]
+Underfull \hbox (badness 1342) in paragraph at lines 2310--2312
+[]\OT1/cmr/m/n/10 S. K. Park, K. W. Miller, \OT1/cmr/m/it/10 ``Ran-dom Num-ber 
+Gen-er-a-tors: Good Ones Are Hard to Find-''\OT1/cmr/m/n/10 ,
+[48] [49] (main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(see the transcript file for additional information) <C:\Users\aless\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/aless/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/User
+s/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mbx7.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aless/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aless/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/aless/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aless/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
+/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+7.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/aless/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/aless/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/aless/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/ales
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feybr10.pfb><C:/User
+s/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feymr10.pfb><C
+:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb><C:/Users/aless/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfd
+ing/uzdr.pfb>
+Output written on main.pdf (49 pages, 2356349 bytes).
+Transcript written on main.log.
+pdflatex: critical issue: You are running MiKTeX on an unsupported version of Windows.

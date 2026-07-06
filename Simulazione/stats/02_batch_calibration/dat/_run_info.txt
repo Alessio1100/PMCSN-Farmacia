@@ -1,0 +1,4 @@
+scenario     = 02_BATCH_CALIBRATION
+timestamp    = 2026-07-03T22:48:56.861746900
+lambda       = 0,0190975  (= media NSPP raw, lambda di produzione infinito)
+k (fisso)    = 64   soglia Chatfield = 2/sqrt(k) = 0,2500   margine = 0,20*soglia = 

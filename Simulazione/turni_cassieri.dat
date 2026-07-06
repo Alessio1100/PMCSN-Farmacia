@@ -1,0 +1,32 @@
+# Turni cassieri - dati per gnuplot / pandas
+#
+# Colonne:
+#   ora       : inizio fascia oraria (es. 8 = 08:00-09:00)
+#   richiesta : numero di casse richieste in quella fascia
+#   C1..C9    : 1=attivo, 0=assente o fuori turno, -1=pausa pranzo
+#
+# Metadati cassieri (per etichette e colori nel grafico):
+#   #META  nome  inizio  fine  colore
+#   #META  C1    8       15    #378ADD
+#   #META  C2    8       15    #378ADD
+#   #META  C3    9       17    #1D9E75
+#   #META  C4    9       17    #1D9E75
+#   #META  C5    11      19    #7F77DD
+#   #META  C6    17      20    #EF9F27
+#   #META  C7    17      20    #EF9F27
+#   #META  C8    17      20    #EF9F27
+#   #META  C9    17      20    #EF9F27
+#
+# ora  richiesta  C1  C2  C3  C4  C5  C6  C7  C8  C9
+8      2           1   1   0   0   0   0   0   0   0
+9      4           1   1   1   1   0   0   0   0   0
+10     4           1   1   1   1   0   0   0   0   0
+11     5           1   1   1   1   1   0   0   0   0
+12     5           1   1   1   1   1   0   0   0   0
+13     3           1   1  -1  -1   1   0   0   0   0
+14     4           1   1   1   1  -1   0   0   0   0
+15     3           0   0   1   1   1   0   0   0   0
+16     3           0   0   1   1   1   0   0   0   0
+17     5           0   0   1   1   1   1   1   1   1
+18     4           0   0   0   0   1   1   1   1   1
+19     4           0   0   0   0   0   1   1   1   1

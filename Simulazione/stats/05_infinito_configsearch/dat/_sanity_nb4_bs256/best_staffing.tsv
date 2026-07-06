@@ -1,0 +1,13 @@
+# hour	nCasse	nMag	status  (min C_tot=lavoro+inventario+attesa, c_w=10.0 EUR/h; feasible = P(OOS)<=0.05 E stabile X>=0.9*lambda; best-effort = min C_tot se nessuna feasible)
+08-09	2	1	feasible
+09-10	3	1	feasible
+10-11	3	1	feasible
+11-12	3	2	feasible
+12-13	5	2	feasible
+13-14	3	1	feasible
+14-15	3	1	feasible
+15-16	3	1	feasible
+16-17	3	2	feasible
+17-18	5	2	best-effort
+18-19	5	2	best-effort
+19-20	4	2	feasible

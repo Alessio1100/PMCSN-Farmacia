@@ -1,0 +1,7 @@
+scenario   = 06_OTTIMIZZATO_FINITO
+timestamp  = 2026-07-04T11:57:23.402942100
+reps       = 128
+inventory_s= [75, 65, 55, 40, 30]
+f_init     = 1.0
+staffing   = [[2, 1], [2, 1], [3, 1], [3, 1], [3, 1], [3, 1], [4, 2], [4, 2], [4, 2], [4, 2], [3, 1], [3, 1], [3, 1], [3, 1], [3, 1], [3, 1], [3, 2], [3, 2], [4, 2], [4, 2], [4, 2], [4, 2], [4, 2], [4, 2]]  (24 slot da 30'; {#casse,#magazzinieri})
+labor_cost = 1364.00 EUR/giorno  (26/18 EUR/h, CLAUDE.md §8)

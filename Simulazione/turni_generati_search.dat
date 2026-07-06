@@ -1,0 +1,30 @@
+# Turni GENERATI dallo staffing ottimo di ConfigurationSearch (attivita' 05)
+# smussati per realismo (min/max durata turno). Ritoccabili a mano.
+#
+# META nome  inizio  fine  colore   ruolo
+META C1    8       16    #378ADD  cassiere
+META C2    8       16    #378ADD  cassiere
+META C3    9       17    #1D9E75  cassiere
+META C4    11      14    #7F77DD  cassiere
+META C5    16      20    #EF9F27  cassiere
+META C6    16      20    #EF9F27  cassiere
+META C7    17      20    #EF9F27  cassiere
+META C8    17      20    #EF9F27  cassiere
+META M1    8       16    #378ADD  magazziniere
+META M2    11      14    #7F77DD  magazziniere
+META M3    16      20    #EF9F27  magazziniere
+META M4    16      20    #EF9F27  magazziniere
+#
+# ora  casse_richieste  magaz_richiesti  C1  C2  C3  C4  C5  C6  C7  C8  M1  M2  M3  M4
+8      2                1                1   1   0   0   0   0   0   0   1   0   0   0
+9      3                1                1   1   1   0   0   0   0   0   1   0   0   0
+10     3                1                1   1   1   0   0   0   0   0   1   0   0   0
+11     4                2                1   1   1   1   0   0   0   0   1   1   0   0
+12     4                2                1   1   1   1   0   0   0   0   1   1   0   0
+13     3                1                1   1   1   1   0   0   0   0   1   1   0   0
+14     3                1                1   1   1   0   0   0   0   0   1   0   0   0
+15     3                1                1   1   1   0   0   0   0   0   1   0   0   0
+16     3                2                0   0   1   0   1   1   0   0   0   0   1   1
+17     4                2                0   0   0   0   1   1   1   1   0   0   1   1
+18     4                2                0   0   0   0   1   1   1   1   0   0   1   1
+19     4                2                0   0   0   0   1   1   1   1   0   0   1   1

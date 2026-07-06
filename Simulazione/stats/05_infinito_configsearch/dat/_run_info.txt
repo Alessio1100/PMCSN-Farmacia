@@ -1,0 +1,11 @@
+scenario      = 05_STAFFING_SEARCH
+timestamp     = 2026-07-03T22:56:43.302126800
+num_batches   = 64
+batch_size    = 1024
+inventory_s   = [75, 65, 55, 40, 30]  (fissa, da attivita' 04, CLAUDE.md §21.1)
+staffing_grid = casse[2..5] x mag[1..2]
+cost_rates    = cassa 26.0 EUR/h, magazziniere 18.0 EUR/h (CLAUDE.md §8)
+cost_wait     = 10.0 EUR/h·cliente  (C_attesa = c_w·N_clienti·E[T]; knob -Dcost.wait)
+sla_oos       = 0.05  (vincolo hard primario; knob -Dsla.oos)
+hourly_lambda = [0.0078325, 0.016917500000000002, 0.018000000000000002, 0.02385, 0.0226675, 0.014332500000000001, 0.0146675, 0.0133325, 0.0196675, 0.02475, 0.0252, 0.02275]
+center_order  = [Casse Farmacia, Cassa Online, Dispatcher, Braccio Uno, Braccio Due , Magazziniere, Casse Pagamento]  (ordine delle colonne util_* in results.dat)

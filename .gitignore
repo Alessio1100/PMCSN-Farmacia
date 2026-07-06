@@ -1,0 +1,11 @@
+/Simulazione/target/
+/Simulazione/build_cmp/
+out/
+*.class
+/*.dat
+.idea/
+*.xml
+*.log
+*.pyc
+__pycache__/
+Simulazione/Teoria/

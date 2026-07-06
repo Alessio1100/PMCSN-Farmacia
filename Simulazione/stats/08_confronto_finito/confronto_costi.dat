@@ -1,0 +1,4 @@
+# scenario	personale_eur_gg	inventario_eur_gg	totale_eur_gg	delta_costo_vs_baseline	P_OOS	E_T_sistema_s	delivery_lag_min
+Baseline	1992.00	1569.17	3561.17	+0.00%	0.11116	332.81	35.36
+Ottimizzato	1364.00	740.05	2104.05	-40.92%	0.03937	392.46	22.96
+Ottimizzato + turni	1408.00	707.56	2115.56	-40.59%	0.03710	392.21	22.51

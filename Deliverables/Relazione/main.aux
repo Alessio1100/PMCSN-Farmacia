@@ -1,0 +1,59 @@
+\relax 
+\providecommand\babel@aux[2]{}
+\@nameuse{bbl@beforestart}
+\babel@aux{italian}{}
+\babel@aux{italian}{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Scopi e Obiettivi}{2}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Modello concettuale}{3}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Modello delle specifiche}{9}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Finestra protetta (carico).}{11}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.0.1}Arrivi per fascia oraria}{18}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Modello computazionale}{19}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Analisi del Flusso Forzato}{19}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Analisi}{20}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Analisi del flusso forzato: domande di servizio per cliente e utilizzazioni previste alla domanda media ($\bar  \lambda = 0{,}0190975$ req/s) e al cap di picco ($0{,}0255$ req/s). Il lavoro di carico e del magazziniere è espresso per cliente servito (a regime le unità caricate eguagliano le vendute, scontate della quota out-of-stock $\approx 2\%$). $(\ast )$: si veda la discussione sulla saturazione della catena di rifornimento.}}{21}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Verifica}{22}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Verifica per centro: valori analitici (dai parametri di input del modello) contro stime di batch means. Tutti i valori analitici cadono negli intervalli di confidenza simulati.}}{22}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Utilizzazioni previste dal flusso forzato contro utilizzazioni misurate (orizzonte infinito, $\lambda = 0{,}0190975$).}}{23}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Validazione}{23}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8}Il piano sperimentale: otto attività in due fasi}{26}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Roadmap del piano sperimentale: le otto attività, l'orizzonte di simulazione di ciascuna e la decisione che produce. Le attività a orizzonte infinito \emph  {scelgono}; quelle a orizzonte finito \emph  {misurano e verificano} sulla giornata operativa reale.}}{27}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Descrizione del sistema ad alto livello}}{28}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Profilo NSPP degli arrivi $\lambda (t)$, costante a tratti sulle 24 fasce da 30 minuti. In rosso i tre slot di punta (11:30--12:00, 17:30--18:00, 18:00--18:30) limitati al cap $\lambda = 0{,}0255$ req/s.}}{29}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {9}Fase I --- Il sistema attuale (attività 1--3)}{31}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.1}Attività 1 --- Analisi del transitorio}{31}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2}Attività 2 --- Calibrazione della batch size}{31}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Transitorio del tempo di risposta di sistema (media d'ensemble su 5 repliche, dettaglio sui primi 10\,000 completamenti): la curva si assesta dopo $\approx 320$ completamenti.}}{32}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Stessa statistica sull'intera run da 40\,000 completamenti: nessuna deriva, la media fluttua attorno al valore di regime ($\approx 363$ s, linea tratteggiata). Il marcatore verticale indica i 10\,000 job usati come warm-up nell'orizzonte infinito.}}{33}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Autocorrelazione lag-1 dei batch means al variare della dimensione di batch $b$ (scansione su tre seed, $k=64$): tutte le serie sono sotto la soglia di Chatfield ($0{,}25$, linea rossa) già dalle $b$ piccole; la banda grigia indica l'errore standard $1/\sqrt  {k}$ di un processo scorrelato.}}{33}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Correlogramma (lag 1--16) dei batch means a $b=1024$ per il tempo di risposta globale: nessun lag supera la soglia, i batch sono assimilabili a osservazioni indipendenti.}}{34}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.3}Attività 3 --- La baseline: la gestione attuale}{35}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Baseline, tempo di risposta di sistema per finestra da 30 minuti (medie su 128 repliche): l'attesa cresce nelle fasce di punta (tarda mattinata e sera) e si riassorbe nelle fasce successive --- il comportamento tipico di un sistema non stazionario stabile.}}{36}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Baseline, utilizzazione delle casse per finestra: con 5 farmacisti sempre attivi l'utilizzazione resta tra $0{,}3$ e $0{,}6$ --- il sovradimensionamento fuori picco è il margine economico che la Fase II va a recuperare.}}{36}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {10}Fase II --- L'ottimizzazione (attività 4--8)}{36}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.1}Attività 4 --- La politica di riordino $(s,S)$}{37}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Ricerca della politica $(s,S)$: costo d'inventario contro $P(\text  {OOS})$ per le configurazioni esplorate a $R=30$ min; la configurazione scelta (evidenziata) è Pareto-ottima e rispetta il vincolo del 5\% con il margine più ampio.}}{38}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.2}Attività 5 --- Lo staffing per fascia oraria}{38}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Configurazione di staffing selezionata per fascia (orizzonte infinito al $\lambda $ della fascia, $C_{tot}$ in \officialeuro  /giorno-equivalente --- confrontabile solo entro la stessa fascia). Le cinque fasce di punta sono \emph  {best-effort}: nessuno staffing stabile rispetta il 5\% di out-of-stock sotto stress prolungato.}}{39}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Scomposizione del costo totale (lavoro / inventario / attesa) per ogni combinazione di staffing, fascia per fascia: a sinistra di ogni gruppo lo staffing minimo (domina il costo di attesa e shortage), a destra quello pieno (domina il lavoro); $\star $ = configurazione scelta, bordo rosso = vincolo OOS violato, tratteggio = instabile. Nelle fasce di punta tutte le barre stabili sono bordate di rosso: l'evidenza visiva che il collo è la catena di rifornimento, non lo staffing.}}{40}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Verifica a fronte di Pareto costo--tempo di risposta delle 96 configurazioni: le scelte (stelle) giacciono sul ginocchio del fronte della propria fascia.}}{40}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Turnazione realistica generata dal profilo ottimo: diagramma dei turni (in alto) e copertura oraria risultante contro staffing ottimo e domanda $\lambda (t)$ (in basso). La copertura non scende mai sotto il profilo ottimo.}}{42}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.3}Attività 6 --- Scenario ottimizzato sulla giornata reale}{43}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Scenario ottimizzato: livelli di scorta delle cinque classi lungo la giornata (medie su 128 repliche). Il profilo a dente di sega segue i cicli revisione--carico da 30 minuti; i minimi più profondi cadono nelle fasce di punta ma non collassano a zero: la politica scelta nell'attività 4 assorbe i picchi che nello stress test dell'attività 5 risultavano insostenibili.}}{43}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.4}Attività 7 --- Scenario con turnazione realistica}{44}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {10.5}Attività 8 --- Confronto finale dei tre scenari}{45}{}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Confronto economico e di servizio dei tre scenari sulla giornata operativa (medie su 128 repliche; delivery lag medio 24/23/23 minuti rispettivamente). Il vincolo $P(\text  {OOS}) \le 5\%$ è rispettato in tutti gli scenari.}}{45}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Quadro economico e di servizio dei tre scenari: costo giornaliero scomposto (personale + inventario) con variazione rispetto alla baseline, $P(\text  {OOS})$ contro la soglia SLA del 5\%, e tempo di risposta medio di sistema.}}{46}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Tempo di risposta di sistema lungo la giornata (medie per finestra su 128 repliche): gli scenari ottimizzati (blu, arancio) pagano un aumento contenuto e distribuito rispetto alla baseline (grigio), senza degenerazioni nelle fasce di punta.}}{46}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Utilizzazione delle casse lungo la giornata: il profilo ottimizzato porta le casse dalla zona di sovradimensionamento della baseline a una zona di lavoro efficiente, seguendo la domanda fascia per fascia.}}{47}{}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Utilizzazione del Braccio Due lungo la giornata: pressoché identica nei tre scenari --- l'ottimizzazione dello staffing non altera il carico sul robot, il cui throughput è conservato.}}{47}{}\protected@file@percent }
+\bibcite{leemis}{1}
+\bibcite{parkmiller}{2}
+\bibcite{little}{3}
+\bibcite{kingman}{4}
+\@writefile{toc}{\contentsline {section}{\numberline {11}Conclusioni}{48}{}\protected@file@percent }
+\bibcite{chatfield}{5}
+\bibcite{harchol}{6}
+\bibcite{kurkowski}{7}
+\bibcite{denitto}{8}
+\gdef \@abspage@last{49}

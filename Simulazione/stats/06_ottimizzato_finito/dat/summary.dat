@@ -1,0 +1,15 @@
+# chiave	valore   (medie per replica su 128 repliche; costi in EUR/giorno)
+scenario	06_OTTIMIZZATO_FINITO
+reps	128
+clienti_serviti	810.22
+abbandoni	0.00
+farmaci_richiesti	2324.11
+farmaci_venduti	2232.62
+farmaci_caricati	2062.53
+oos_articoli	91.49
+p_oos	0.03937
+p_abbandono	0.00000
+delivery_lag_min	22.96
+costo_inventario_eur_gg	740.05
+costo_personale_eur_gg	1364.00
+costo_totale_eur_gg	2104.05
