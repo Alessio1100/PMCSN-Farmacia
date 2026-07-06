@@ -1,7 +1,7 @@
 # Farmacia Automatizzata Gollmann — Modello di Simulazione
 
 Progetto per il corso di **Performance Modeling of Computer Systems and Networks**
-(Prof.ssa V. de Nitto Personè) — Università degli Studi di Roma "Tor Vergata", A.A. 2025/2026.
+Università degli Studi di Roma "Tor Vergata", A.A. 2025/2026.
 
 Autore: **Alessio Torroni** — matricola 0365661.
 
